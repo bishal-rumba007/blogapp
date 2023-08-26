@@ -1,5 +1,5 @@
 # Blog-App
- Developed as my individual project work of Web System and Technology 
+ Developed for my individual project work of Web System and Technology 
 
 # Features 
 - Authentication 
